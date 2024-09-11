@@ -1,1 +1,3 @@
-# Welcome to [Škardová, Daby-Seesaram, Genet (xxxx)]. Finite Element Neural Network Interpolation: Interpretable Neural Networks for solving PDEs's demos!
+## Welcome to NeuROM tutorials!
+
+Main library can be found at [https://gitlab.inria.fr/aldabyse/hidenn_1d](https://gitlab.inria.fr/aldabyse/hidenn_1d)
