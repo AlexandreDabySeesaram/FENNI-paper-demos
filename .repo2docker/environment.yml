@@ -32,7 +32,7 @@ dependencies:
 
 # plotting stuff
 
-  - pip=22.2.2
+  - pip
   - pip:
   # computing stuff
     - setuptools
