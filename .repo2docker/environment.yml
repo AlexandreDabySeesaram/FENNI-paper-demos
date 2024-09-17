@@ -29,13 +29,13 @@ dependencies:
   - notebook
 
 
+  # computing stuff on cpu only
+  - pytorch-cpu  
 
-# plotting stuff
 
   - pip
   - pip:
   # computing stuff
-    - torch --extra-index-url https://download.pytorch.org/whl/cpu
     - gmsh
     - meshio
     - matplotlib
