@@ -40,7 +40,7 @@ latex:
 ############################################################# Launch settings ###
 
 repository:
-  url: https://gitlab.inria.fr/aldabyse/fenni-paper-demos
+  url: https://github.com/AlexandreDabySeesaram/FENNI-paper-demos
   path_to_book: .
   branch: main
 
