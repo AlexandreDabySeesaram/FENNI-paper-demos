@@ -35,7 +35,7 @@ dependencies:
   - pip
   - pip:
   # computing stuff
-    - pip install torch --extra-index-url https://download.pytorch.org/whl/cpu
+    - torch --extra-index-url https://download.pytorch.org/whl/cpu
     - gmsh
     - meshio
     - matplotlib
