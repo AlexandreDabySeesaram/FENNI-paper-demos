@@ -40,9 +40,9 @@ latex:
 ############################################################# Launch settings ###
 
 repository:
-  url: https://github.com/aldabyse/fenni-paper-demos
+  url: https://gitlab.inria.fr/aldabyse/fenni-paper-demos
   path_to_book: .
-  branch: master
+  branch: main
 
 launch_buttons:
   notebook_interface: classic  # jupyterlab, classic
